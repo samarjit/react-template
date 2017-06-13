@@ -1,0 +1,590 @@
+{
+   "note": "This is a sample config file. You should change the mockDirectory to a more reasonable path.",
+   "mockDirectory": "mocks",
+   "quiet": false,
+   "port": "9000",
+   "latency": 50,
+   "webServices": {
+      "rest/menu": {
+         "latency": 20,
+         "verbs": [
+            "get",
+            "post"
+         ],
+         "responses": {
+            "get": {
+               "mockFile": "brand.json"
+            },
+            "post": {
+               "mockFile": "brand.json"
+            }
+         }
+      },
+      "rest/j_spring_security_check": {
+         "latency": 20,
+         "verbs": [
+            "get",
+            "post"
+         ],
+         "responses": {
+            "get": {
+               "mockFile": "login.json"
+            },
+            "post": {
+               "mockFile": "login.json"
+            }
+         }
+      },
+      "rest/logout": {
+         "latency": 20,
+         "verbs": [
+            "get",
+            "post"
+         ],
+         "responses": {
+            "get": {
+               "mockFile": "login.json"
+            },
+            "post": {
+               "mockFile": "login.json"
+            }
+         }
+      },
+      "rest/cleanwater": {
+         "latency": 20,
+         "verbs": [
+            "get",
+            "post"
+         ],
+         "responses": {
+            "get": {
+               "mockFile": "dash_cleanwater.json"
+            },
+            "post": {
+               "mockFile": "dash_cleanwater.json"
+            }
+         }
+      },
+      "rest/getFromDataSource/spillIncidentInfoCard": {
+         "latency": 20,
+         "verbs": [
+            "get",
+            "post"
+         ],
+         "responses": {
+            "get": {
+               "mockFile": "goeSpillIncidentInfocard.json"
+            },
+            "post": {
+               "mockFile": "goeSpillIncidentInfocard.json"
+            }
+         }
+      },
+      "rest/getFromDataSource/spillIncidentMarkers": {
+         "latency": 20,
+         "verbs": [
+            "get",
+            "post"
+         ],
+         "responses": {
+            "get": {
+               "mockFile": "goeSpillIncident.json"
+            },
+            "post": {
+               "mockFile": "goeSpillIncident.json"
+            }
+         }
+      },
+      "rest/getFromDataSource/dashcleanwater": {
+         "latency": 20,
+         "verbs": [
+            "get",
+            "post"
+         ],
+         "responses": {
+            "get": {
+               "mockFile": "dash_cw.json"
+            },
+            "post": {
+               "mockFile": "dash_cw.json"
+            }
+         }
+      },
+      "rest/getFromDataSource/dash_cw_chart": {
+         "latency": 20,
+         "verbs": [
+            "get",
+            "post"
+         ],
+         "responses": {
+            "get": {
+               "mockFile": "dash_cw_chart.json"
+            },
+            "post": {
+               "mockFile": "dash_cw_chart.json"
+            }
+         }
+      },
+      "rest/getFromDataSource/dashcip": {
+         "latency": 20,
+         "verbs": [
+            "get",
+            "post"
+         ],
+         "responses": {
+            "get": {
+               "mockFile": "dash_cip.json"
+            },
+            "post": {
+               "mockFile": "dash_cip.json"
+            }
+         }
+      },
+      "rest/getFromDataSource/dashCipRagStatus": {
+         "latency": 20,
+         "verbs": [
+            "get",
+            "post"
+         ],
+         "responses": {
+            "get": {
+               "mockFile": "dash_cip_rag_status.json"
+            },
+            "post": {
+               "mockFile": "dash_cip_rag_status.json"
+            }
+         }
+      },
+      "rest/dash_ww": {
+         "latency": 20,
+         "verbs": [
+            "get",
+            "post"
+         ],
+         "responses": {
+            "get": {
+               "mockFile": "dash_ww.json"
+            },
+            "post": {
+               "mockFile": "dash_ww.json"
+            }
+         }
+      },
+      "rest/dash_ww_chart": {
+         "latency": 20,
+         "verbs": [
+            "get",
+            "post"
+         ],
+         "responses": {
+            "get": {
+               "mockFile": "dash_ww_chart.json"
+            },
+            "post": {
+               "mockFile": "dash_ww_chart.json"
+            }
+         }
+      },
+      "rest/publications": {
+         "latency": 20,
+         "verbs": [
+            "get",
+            "post"
+         ],
+         "responses": {
+            "get": {
+               "mockFile": "researchBoxConfig.json"
+            },
+            "post": {
+               "mockFile": "researchBoxConfig.json"
+            }
+         }
+      },
+      "rest/permissions/self": {
+         "latency": 20,
+         "verbs": [
+            "get",
+            "post"
+         ],
+         "responses": {
+            "get": {
+               "mockFile": "permissionsSelfMock.json"
+            },
+            "post": {
+               "mockFile": "permissionsSelfMock.json"
+            }
+         }
+      },
+      "rest/work-order-geocode-config": {
+         "latency": 20,
+         "verbs": [
+            "get",
+            "post"
+         ],
+         "responses": {
+            "get": {
+               "mockFile": "workOrderMock.json"
+            },
+            "post": {
+               "mockFile": "workOrderMock.json"
+            }
+         }
+      },
+      "rest/waterTreatmentPlantMarkers": {
+         "latency": 20,
+         "verbs": [
+            "get",
+            "post"
+         ],
+         "responses": {
+            "get": {
+               "mockFile": "waterTreatmentPlantMarkersMock.json"
+            },
+            "post": {
+               "mockFile": "waterTreatmentPlantMarkersMock.json"
+            }
+         }
+      },
+      "rest/getFromDataSource/serviceReservoirsMarkers": {
+         "latency": 20,
+         "verbs": [
+            "get",
+            "post"
+         ],
+         "responses": {
+            "get": {
+               "mockFile": "serviceReservoirsMarkersMock.json"
+            },
+            "post": {
+               "mockFile": "serviceReservoirsMarkersMock.json"
+            }
+         }
+      },
+      "rest/waterTreatmentPlantInfoCard": {
+         "latency": 20,
+         "verbs": [
+            "get",
+            "post"
+         ],
+         "responses": {
+            "get": {
+               "mockFile": "waterTreatmentPlantInfoCardMock.json"
+            },
+            "post": {
+               "mockFile": "waterTreatmentPlantInfoCardMock.json"
+            }
+         }
+      },
+      "rest/getFromDataSource/serviceReservoirsInfoCard": {
+         "latency": 20,
+         "verbs": [
+            "get",
+            "post"
+         ],
+         "responses": {
+            "get": {
+               "mockFile": "serviceReservoirsInfoCardMock.json"
+            },
+            "post": {
+               "mockFile": "serviceReservoirsInfoCardMock.json"
+            }
+         }
+      },
+      "rest/getFromDataSource/serviceReservoirsInfoCardChild": {
+         "latency": 20,
+         "verbs": [
+            "get",
+            "post"
+         ],
+         "responses": {
+            "get": {
+               "mockFile": "serviceReservoirsInfoCardChildMock.json"
+            },
+            "post": {
+               "mockFile": "serviceReservoirsInfoCardChildMock.json"
+            }
+         }
+      },
+      "rest/getFromDataSource/serviceReservoirsInfoCardLineChart": {
+         "latency": 20,
+         "verbs": [
+            "get",
+            "post"
+         ],
+         "responses": {
+            "get": {
+               "mockFile": "serviceReservoirsInfoCardLineChart.json"
+            },
+            "post": {
+               "mockFile": "serviceReservoirsInfoCardLineChart.json"
+            }
+         }
+      },
+      "rest/spills-wireframe-config": {
+         "latency": 20,
+         "verbs": [
+            "get",
+            "post"
+         ],
+         "responses": {
+            "get": {
+               "mockFile": "spillsMock.json"
+            },
+            "post": {
+               "mockFile": "spillsMock.json"
+            }
+         }
+      },
+      "rest/pagelayout/self/byname/homepage": {
+         "latency": 20,
+         "verbs": [
+            "get",
+            "post"
+         ],
+         "responses": {
+            "get": {
+               "mockFile": "homepage_layout.json"
+            },
+            "post": {
+               "mockFile": "homepage_layout.json"
+            }
+         }
+      },
+      "rest/pagelayout/self/byname/wastewaterpage": {
+         "latency": 20,
+         "verbs": [
+            "get",
+            "post"
+         ],
+         "responses": {
+            "get": {
+               "mockFile": "homepage_layout.json"
+            },
+            "post": {
+               "mockFile": "homepage_layout.json"
+            }
+         }
+      },
+      "rest/pagelayout/self/byname/cleanwaterpage": {
+         "latency": 20,
+         "verbs": [
+            "get",
+            "post"
+         ],
+         "responses": {
+            "get": {
+               "mockFile": "homepage_layout.json"
+            },
+            "post": {
+               "mockFile": "homepage_layout.json"
+            }
+         }
+      },
+      "rest/pagefilters/cleanwaterpage": {
+         "latency": 20,
+         "verbs": [
+            "get",
+            "post"
+         ],
+         "responses": {
+            "get": {
+               "mockFile": "nongeoFiltersCleanWater.json"
+            },
+            "post": {
+               "mockFile": "nongeoFiltersCleanWater.json"
+            }
+         }
+      },
+      "rest/pagefilters/homepage": {
+         "latency": 20,
+         "verbs": [
+            "get",
+            "post"
+         ],
+         "responses": {
+            "get": {
+               "mockFile": "nongeoFiltersHomePage.json"
+            },
+            "post": {
+               "mockFile": "nongeoFiltersHomePage.json"
+            }
+         }
+      },
+      "rest/pagefilters/geo/Flow%20Monitors": {
+         "latency": 20,
+         "verbs": [
+            "get",
+            "post"
+         ],
+         "responses": {
+            "get": {
+               "mockFile": "goeFilters.json"
+            },
+            "post": {
+               "mockFile": "goeFilters.json"
+            }
+         }
+      },
+      "rest/pagefilters/geo": {
+         "latency": 20,
+         "verbs": [
+            "get",
+            "post"
+         ],
+         "responses": {
+            "get": {
+               "mockFile": "goeFiltersData.json"
+            },
+            "post": {
+               "mockFile": "goeDataFiltersData.json"
+            }
+         },
+         "switch": [
+            "layer"
+         ],
+         "switchResponses": {
+            "layerFLOW_MONITORS": {
+               "mockFile": "goeFilters.json"
+            },
+            "layerCIP_WW_PROJECTS": {
+               "mockFile": "goeFiltersData.json"
+            }
+         }
+      },
+      "rest/config": {
+         "latency": 20,
+         "verbs": [
+            "get",
+            "post"
+         ],
+         "responses": {
+            "get": {
+               "mockFile": "arisconfig.json"
+            },
+            "post": {
+               "mockFile": "arisconfig.json"
+            }
+         }
+      },
+      "rest/config/locale": {
+         "latency": 20,
+         "verbs": [
+            "get",
+            "post"
+         ],
+         "responses": {
+            "get": {
+               "mockFile": "arisconfiglocale.json"
+            },
+            "post": {
+               "mockFile": "arisconfiglocale.json"
+            }
+         }
+      },
+      "rest/customercontacts": {
+         "latency": 20,
+         "verbs": [
+            "get",
+            "post"
+         ],
+         "responses": {
+            "get": {
+               "mockFile": "customercontacts.json"
+            },
+            "post": {
+               "mockFile": "customercontacts.json"
+            }
+         }
+      },
+      "rest/criticalpressurepoints": {
+         "latency": 20,
+         "verbs": [
+            "get",
+            "post"
+         ],
+         "responses": {
+            "get": {
+               "mockFile": "criticalpressurepoints.json"
+            },
+            "post": {
+               "mockFile": "criticalpressurepoints.json"
+            }
+         }
+      },
+      "rest/getWaterSupplyZones": {
+         "latency": 20,
+         "verbs": [
+            "get",
+            "post"
+         ],
+         "responses": {
+            "get": {
+               "mockFile": "getWaterSupplyZones.json"
+            },
+            "post": {
+               "mockFile": "getWaterSupplyZones.json"
+            }
+         }
+      },
+      "rest/getRowChartData": {
+         "latency": 20,
+         "verbs": [
+            "get",
+            "post"
+         ],
+         "responses": {
+            "get": {
+               "mockFile": "causeofspills.json"
+            },
+            "post": {
+               "mockFile": "causeofspills.json"
+            }
+         }
+      },
+      "rest/districtmeters": {
+         "latency": 20,
+         "verbs": [
+            "get",
+            "post"
+         ],
+         "responses": {
+            "get": {
+               "mockFile": "districtmeters.json"
+            },
+            "post": {
+               "mockFile": "districtmeters.json"
+            }
+         }
+      },
+      "rest/getFromDataSource/waterBoosterStationsMarkers": { "latency": 20, "verbs": ["post"],"responses":{"post": { "mockFile": "waterBoosterStationsMarkers.json"  } } },
+      "rest/getFromDataSource/waterBoosterStationsInfoCard": { "latency": 20, "verbs": ["post"],"responses":{"post": { "mockFile": "waterBoosterStationsInfoCard.json"  } } },
+      "rest/getFromDataSource/waterBoosterStationsInfoCardLineChart": { "latency": 20, "verbs": ["post"],"responses":{"post": { "mockFile": "waterBoosterStationsInfoCardLineChart.json"  } } },
+      "rest/getFromDataSource/waterBoosterStationsInfoCardChild": { "latency": 20, "verbs": ["post"],"responses":{"post": { "mockFile": "waterBoosterStationsInfoCardChild.json"  } } },
+      "rest/getFromDataSource/waterTreatmentPlantMarkers": { "latency": 20, "verbs": ["post"],"responses":{"post": { "mockFile": "waterTreatmentPlantMarkersMock.json"  } } },
+      "rest/getFromDataSource/waterTreatmentPlantInfoCard": { "latency": 20, "verbs": ["post"],"responses":{"post": { "mockFile": "waterTreatmentPlantInfoCard.json"  } } },
+      "rest/getFromDataSource/waterTreatmentPlantInfoCardLineChart": { "latency": 20, "verbs": ["post"],"responses":{"post": { "mockFile": "waterTreatmentPlantInfoCardLineChart.json"  } } },
+      "rest/getFromDataSource/waterTreatmentPlantInfoCardChild": { "latency": 20, "verbs": ["post"],"responses":{"post": { "mockFile": "waterTreatmentPlantInfoCardChild.json"  } } },
+      "rest/getFromDataSource/weatherstations": { "latency": 20, "verbs": ["post"],"responses":{"post": { "mockFile": "rainfallchart.json"  } } }
+       ,
+      "rest/getFromDataSource/testdatasource": {
+         "latency": 20,
+         "verbs": [
+            "get",
+            "post"
+         ],
+         "responses": {
+            "get": {
+               "mockFile": "getFromDataSource_testdatasource_offset=0_limit=1000.json"
+            },
+            "post": {
+               "mockFile": "getFromDataSource_testdatasource_offset=0_limit=1000.json"
+            }
+         }
+      }
+      ,"rest/datasourcedef": { "latency": 20, "verbs": ["post","get"],"mockFile": "datasourcedef.json" }
+      ,"rest/plugins": { "latency": 20, "verbs": ["post","get"],"mockFile": "plugins.json" }
+      ,"rest/plugin/test_plugin/js": { "latency": 20, "verbs": ["post","get"],"mockFile": "test_plugin.js" }
+      ,"rest/plugin/test_plugin/html": { "latency": 20, "verbs": ["post","get"],"mockFile": "test_plugin.html" }
+      
+   }
+}

@@ -1,0 +1,24 @@
+[
+	{
+		"title": "Resources Digital Industry Platforms",
+		"url": "https://collections.accenture.com/collection.aspx?b=9a2b3151-800b-e611-814b-005056b167e3#",
+		"img":"./awa-arch-core/common/resources/img/researchBoxIcon1.png"
+	},
+		{
+		"title": "Accenture Water Analytics Transcript",
+		"url": "https://www.accenture.com/t20150727T221012__w__/gb-en/_acnmedia/Accenture/Conversion-Assets/Microsites/Documents21/Accenture-Water-Analytics-Transcript.pdf",
+		"img":"./awa-arch-core/common/resources/img/awa_pdf.png",
+		"size": "624"	
+	},
+		{
+		"title": "Accenture to Help Thames Water Prove the Benefits of Smart Monitoring Capabilities",
+		"url": "https://newsroom.accenture.com/article_display.cfm?article_id=6010",
+		"img":"./awa-arch-core/common/resources/img/researchBoxIcon2.png"
+	},
+		{
+		"title": "2015 MWH Economics of Water Report Final v4",
+		"url": "http://www.mwhglobal.com/wp-content/uploads/2015/12/2015_mwh_economics_of_water_report_final_v4.pdf",
+		"img":"./awa-arch-core/common/resources/img/researchBoxIcon3.png",
+		"size": "624"	
+	}
+]

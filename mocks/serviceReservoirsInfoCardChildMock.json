@@ -1,0 +1,18 @@
+[
+	{
+		"assetName" : "CROMERS WOOD SITTINGBOURNE 1 WSR",
+		"reservoirCellStatus" : "OPERATIONAL", 
+		"cellLevelDepth" : 3.845313072, 
+		"dtvCellLevelDepth" : "2015-10-19 00:00:00",
+		"cellLevelPercFull" : 0.791216682,
+		"dtvCellLevelPercFull" : "2015-10-19 00:00:00"
+	},
+	{
+		"assetName" : "A",
+		"reservoirCellStatus" : "OPERATIONAL", 
+		"cellLevelDepth" : 19, 
+		"dtvCellLevelDepth" : "2015-10-27 00:00:00",
+		"cellLevelPercFull" : 0.09,
+		"dtvCellLevelPercFull" : "2015-10-27 00:00:00"
+	}
+]

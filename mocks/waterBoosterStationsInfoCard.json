@@ -1,0 +1,28 @@
+[
+    {
+        "waterBoosterStationId": 1,
+        "functionalAreaId": 11,
+        "assetObjectTypeId": 9,
+        "assetId": 0,
+        "assetObjectTypeName": "Water Booster Station",
+        "assetName": "WALLEND WBS",
+        "assetReference": "WALL",
+        "latitude": 33.754182,
+        "longitude": -84.53032,
+        "xCoordinate": 0.0,
+        "yCoordinate": 0.0,
+        "supplyCriticality": "HIGH",
+        "operationalStatus": "OPERATIONAL",
+        "boosterStationFlowRate": 4.125,
+        "dtvBoosterStationFlowRate": 1445227200000,
+        "pumpAvailability": 10,
+        "dtvPumpAvailability": 1445227200000,
+        "numberOfPumps": 2,
+        "minimumNumberOfPumpsRequired": 1,
+        "yesterdayTotalFlow": 0.0,
+        "dtvYesterdayTotalFlow": null,
+        "unitCost": 12.0,
+        "maxFlow": 15.0,
+        "minFlow": 0.0
+    }
+]

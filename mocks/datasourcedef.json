@@ -1,0 +1,161 @@
+{
+    "metalogdata": {
+        "properties": null,
+        "sampleFilter": [
+            {
+                "op": "in",
+                "name": "markerId",
+                "values": [
+                    "CROMERS WOOD SITTINGBOURNE WSR"
+                ],
+                "dbtype": "String"
+            }
+        ]
+    },
+    "pipesize": {
+        "properties": {
+            "INCIDENT_PUBLIC_OR_PRIVATE": "String",
+            "SPILL_TO": "String",
+            "SPILL_SOURCE": "String",
+            "INCIDENT_CAUSE": "String",
+            "COMMENTS": "String",
+            "date": "DATE"
+        },
+        "sampleFilter": [
+            {
+                "op": "in",
+                "name": "INCIDENT_PUBLIC_OR_PRIVATE",
+                "values": [
+                    "Public",
+                    "Private"
+                ],
+                "dbtype": null
+            },
+            {
+                "op": "in",
+                "name": "SPILL_TO",
+                "values": [
+                    "LAND"
+                ],
+                "dbtype": null
+            },
+            {
+                "op": "in",
+                "name": "SPILL_SOURCE",
+                "values": [
+                    "LATERAL"
+                ],
+                "dbtype": null
+            },
+            {
+                "op": "in",
+                "name": "INCIDENT_CAUSE",
+                "values": [
+                    "DEBRIS"
+                ],
+                "dbtype": null
+            },
+            {
+                "op": "like",
+                "name": "COMMENTS",
+                "values": [
+                    "TASTE/ODOUR-CHLORINE"
+                ],
+                "dbtype": null
+            },
+            {
+                "op": "between",
+                "name": "SPILL_CALL_DATE_TIME",
+                "values": [
+                    "01-Aug-2017"
+                ],
+                "dbtype": null
+            }
+        ]
+    },
+    "userLogInfo": {
+        "properties": null,
+        "sampleFilter": [
+            {
+                "op": "in",
+                "name": "USERNAME",
+                "values": [
+                    "paula.cazares"
+                ],
+                "dbtype": null
+            },
+            {
+                "op": "in",
+                "name": "ID",
+                "values": [
+                    "12"
+                ],
+                "dbtype": null
+            },
+            {
+                "op": "in",
+                "name": "SESSIONTIME",
+                "values": [
+                    "12"
+                ],
+                "dbtype": null
+            },
+            {
+                "op": "in",
+                "name": "count",
+                "values": [
+                    "2"
+                ],
+                "dbtype": null
+            }
+        ]
+    },
+    "serviceReservoirsInfoCard": {
+        "properties": {
+            "markerId": "String"
+        },
+        "sampleFilter": [
+            {
+                "op": "in",
+                "name": "markerId",
+                "values": [
+                    "CROMERS WOOD SITTINGBOURNE WSR"
+                ],
+                "dbtype": "String"
+            }
+        ]
+    },
+    "waterBoosterStationsMarkers" :{
+        "properties":{},
+        "sampleFilter":[]
+    },
+    "waterBoosterStationsInfoCard" :{
+        "properties":{},
+        "sampleFilter":[]
+    },
+    "waterBoosterStationsInfoCardLineChart" :{
+        "properties":{},
+        "sampleFilter":[]
+    },
+    "waterTreatmentPlantMarkers" :{
+        "properties":{},
+        "sampleFilter":[]
+    },
+    "waterTreatmentPlantInfoCard" :{
+        "properties":{},
+        "sampleFilter":[]
+    },
+    "waterTreatmentPlantInfoCardLineChart" :{
+        "properties":{},
+        "sampleFilter":[]
+    },
+    "waterTreatmentPlantInfoCardChild" :{
+        "properties":{},
+        "sampleFilter":[]
+    },
+    "weatherstations" :{
+        "properties":{},
+        "sampleFilter":[]
+    },
+    "testdatasource": { "properties":{}, "sampleFilter":[] }
+}

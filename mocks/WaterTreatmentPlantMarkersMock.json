@@ -1,0 +1,29 @@
+[
+    {
+        "assetId": 0,
+        "assetName": "HIGHSTED WSW",
+        "latitude": 33.790329,
+        "longitude": -84.444533,
+        "ragStatus": "GREEN",
+        "xCoordinate":  69.43359,
+        "yCoordinate": -22.07032
+    },
+    {
+        "assetId": 0,
+        "assetName": "SELLING WSW",
+        "latitude": 33.758199,
+        "longitude": -84.425731,
+        "ragStatus": "GREEN",
+        "xCoordinate":  37.79297,
+        "yCoordinate": -33.67188
+    },
+    {
+        "assetId": 0,
+        "assetName": "EASTLING WSW",
+        "latitude": 33.80803,
+        "longitude": -84.478456,
+        "ragStatus": "GREEN",
+        "xCoordinate":  31.81641,
+        "yCoordinate": -32.92969
+    }
+]

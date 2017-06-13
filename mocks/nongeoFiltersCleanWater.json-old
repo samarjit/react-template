@@ -1,0 +1,174 @@
+ {
+ 	"datasources": [{
+ 		"datasourceLabel": "Spill Trend",
+ 		"datasource": "spillTrend",
+ 		"submitUrl": "",
+ 		"criteria": [{
+ 			"name": "spillType",
+ 			"label": "Spill Type",
+ 			"fields": [{
+ 				"type": "checkbox",
+ 				"label": "Public",
+ 				"value": "public",
+ 				"op": "in",
+ 				"dtype": "String"
+ 			}, {
+ 				"type": "checkbox",
+ 				"label": "Private",
+ 				"value": "private",
+ 				"op": "in",
+ 				"dtype": "String"
+ 			}, {
+ 				"type": "checkbox",
+ 				"label": "SSOH",
+ 				"value": "ssoh",
+ 				"op": "in",
+ 				"dtype": "String"
+ 			}]
+ 		}, {
+ 			"name": "spillSource",
+ 			"label": "Spill Source",
+ 			"fields": [{
+ 				"type": "text",
+ 				"label": "Lateral",
+ 				"value": "lateral",
+ 				"op": "like",
+ 				"dtype": "String"
+ 			}]
+ 		}, {
+ 			"name": "spillTo",
+ 			"label": "Spill To",
+ 			"fields": [{
+ 				"type": "checkbox",
+ 				"label": "Creek",
+ 				"value": "creek",
+ 				"op": "in",
+ 				"dtype": "String"
+ 			}, {
+ 				"type": "checkbox",
+ 				"label": "Land",
+ 				"value": "land",
+ 				"op": "in",
+ 				"dtype": "String"
+ 			}]
+ 		}]
+ 	}, {
+ 		"datasourceLabel": "Work Order",
+ 		"datasource": "WorkOrder",
+ 		"submitUrl": "",
+ 		"criteria": [{
+ 			"name": "workOrder",
+ 			"label": "Work Order Type",
+ 			"fields": [{
+ 				"type": "checkbox",
+ 				"label": "filter1",
+ 				"value": "Filter1",
+ 				"op": "in",
+ 				"dtype": "String"
+ 			}, {
+ 				"type": "checkbox",
+ 				"label": "filter2",
+ 				"value": "filter2",
+ 				"op": "in",
+ 				"dtype": "String"
+ 			}, {
+ 				"type": "checkbox",
+ 				"label": "filter3",
+ 				"value": "filter3",
+ 				"op": "in",
+ 				"dtype": "String"
+ 			}]
+ 		}, {
+ 			"name": "workOrderSource",
+ 			"label": "work Order Source",
+ 			"fields": [{
+ 				"type": "checkbox",
+ 				"label": "filter4",
+ 				"value": "filter4",
+ 				"op": "in",
+ 				"dtype": "String"
+ 			}, {
+ 				"type": "checkbox",
+ 				"label": "filter5",
+ 				"value": "filter5",
+ 				"op": "in",
+ 				"dtype": "String"
+ 			}]
+ 		}, {
+ 			"name": "workOrcderTo",
+ 			"label": "Work OrcderTo",
+ 			"fields": [{
+ 				"type": "checkbox",
+ 				"label": "filter6",
+ 				"value": "filter6",
+ 				"op": "in",
+ 				"dtype": "String"
+ 			}, {
+ 				"type": "checkbox",
+ 				"label": "filter7",
+ 				"value": "filter7",
+ 				"op": "in",
+ 				"dtype": "String"
+ 			}]
+ 		}]
+ 	}, {
+ 		"datasourceLabel": "Sewer Spills",
+ 		"datasource": "sewerSpills",
+ 		"submitUrl": "",
+ 		"criteria": [{
+ 			"name": "sewerSpillType",
+ 			"label": "Sewer Spill Type",
+ 			"fields": [{
+ 				"type": "checkbox",
+ 				"label": "filter8",
+ 				"value": "filter8",
+ 				"op": "in",
+ 				"dtype": "String"
+ 			}, {
+ 				"type": "checkbox",
+ 				"label": "filter9",
+ 				"value": "filter9",
+ 				"op": "in",
+ 				"dtype": "String"
+ 			}, {
+ 				"type": "checkbox",
+ 				"label": "filter10",
+ 				"value": "filter10",
+ 				"op": "in",
+ 				"dtype": "String"
+ 			}]
+ 		}, {
+ 			"name": "sewerSpillSource",
+ 			"label": "Sewer Spill Source",
+ 			"fields": [{
+ 				"type": "checkbox",
+ 				"label": "filter11",
+ 				"value": "filter11",
+ 				"op": "in",
+ 				"dtype": "String"
+ 			}, {
+ 				"type": "checkbox",
+ 				"label": "filter12",
+ 				"value": "filter12",
+ 				"op": "in",
+ 				"dtype": "String"
+ 			}]
+ 		}, {
+ 			"name": "SewerspillTo",
+ 			"label": "Sewer Spill To",
+ 			"fields": [{
+ 				"type": "checkbox",
+ 				"label": "filter13",
+ 				"value": "filter13",
+ 				"op": "in",
+ 				"dtype": "String"
+ 			}, {
+ 				"type": "checkbox",
+ 				"label": "filter14",
+ 				"value": "filter14",
+ 				"op": "in",
+ 				"dtype": "String"
+ 			}]
+ 		}]
+ 	}]
+ }

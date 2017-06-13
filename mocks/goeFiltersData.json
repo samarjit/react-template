@@ -1,0 +1,54 @@
+{
+	"datasource":"flowmonitors",
+	"geofilters": [{
+			"name": "spilltype",
+			"label": "spill Type",
+			"fields": [{
+				"type": "checkbox",
+				"label": "Public",
+				"value": "public",
+				"op": "in",
+				"dtype": "String"
+			}, {
+				"type": "checkbox",
+				"label": "Private",
+				"value": "private",
+				"op": "in",
+				"dtype": "String"
+			}, {
+				"type": "checkbox",
+				"label": "SSOH",
+				"value": "ssoh",
+				"op": "in",
+				"dtype": "String"
+			}]
+		}, {
+			"name": "spillSource",
+			"label": "spill Source",
+			"fields": [{
+				"type": "textfield",
+				"label": "Lateral",
+				"value": "lateral",
+				"op": "like",
+				"dtype": "String"
+			}]
+		}, {
+			"name": "spillTo",
+			"label": "spill To",
+			"fields": [{
+				"type": "checkbox",
+				"label": "Creek",
+				"value": "creek",
+				"op": "in",
+				"dtype": "String"
+			}, {
+				"type": "checkbox",
+				"label": "Land",
+				"value": "land",
+				"op": "in",
+				"dtype": "String"
+			}]
+		}
+
+	]
+}

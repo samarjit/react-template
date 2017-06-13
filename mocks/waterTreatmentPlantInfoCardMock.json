@@ -1,0 +1,18 @@
+{	
+	"assetName": "HIGHSTED WSW",
+	"assetReference": "HIGH",
+	"siteReliableOutput": 3,
+	"siteDesignCapacity": 4,
+	"targetProduction": 3,
+	"unitCost": 18,
+	"productionFlow": 5.395313,
+	"dtvProductionFlow": "2016-01-19 00:00:00",
+	"sp2Chlorine": 0.518438,
+	"dtvSp2Chlorine": "2016-01-19 00:00:00",
+	"turbidity": 0.073828,
+	"dtvTurbidity": "2016-01-19 00:00:00",
+	"nitrate": 0,
+	"dtvNitrate": "0000-00-00 00:00:00",
+	"rolling24HrProduction": 4.395313,
+	"dtvRolling24HrProduction": "2016-01-19 00:00:00"
+}

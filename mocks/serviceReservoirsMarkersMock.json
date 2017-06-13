@@ -1,0 +1,50 @@
+[{
+	"assetName": "CROMERS WOOD SITTINGBOURNE WSR",
+	"ragStatus": "AMBER",
+	"latitude": 33.780493,
+	"longitude": -84.347754,
+	"xCoordinate":  -52.294921875,
+	"yCoordinate": 43.09277303516865
+}, {
+	"assetName": "KEYCOL WSR",
+	"ragStatus": "GREEN",
+	"latitude": 33.795644,
+	"longitude": -84.22788,
+	"xCoordinate": -110.126953125,
+	"yCoordinate": 28.753417767584324
+}, {
+	"assetName": "KINGSBOROUGH MINSTER IOS WSR",
+	"ragStatus": "GREEN",
+	"latitude": 33.845362,
+	"longitude": -84.348925,
+	"xCoordinate": -108.45703125,
+	"yCoordinate": 9.241699017584324
+}, {
+	"assetName": "KINGSBOROUGH MINSTER IOS TOWER WSR",
+	"ragStatus": "RED",
+	"latitude": 33.774812,
+	"longitude": -84.424423,
+	"xCoordinate": -132.7587890625,
+	"yCoordinate": 11.966308392584324
+}, {
+	"assetName": "SOUTHDOWN HALFWAY HOUSES WSR",
+	"ragStatus": "AMBER",
+	"latitude": 33.839376,
+	"longitude": -84.353726,
+	"xCoordinate": -150.99609375000003,
+	"yCoordinate": 25.714599508792162
+}, {
+	"assetName": "STOCKERS HILL RODMERSHAM WSR",
+	"ragStatus": "AMBER",
+	"latitude": 33.766787,
+	"longitude": -84.476949,
+	"xCoordinate":  -168.57421875,
+	"yCoordinate": 4.9746085703372955
+}, {
+	"assetName": "DEANS HILL BPT",
+	"ragStatus": "GREEN",
+	"latitude": 33.721073,
+	"longitude": -84.370727,
+	"xCoordinate": 104.4140625,
+	"yCoordinate": 51.029296070337296
+}]

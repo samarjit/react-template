@@ -1,0 +1,12 @@
+[Wed Feb 10 2016 12:00:19 GMT+0000 (GMT)] layer "Accenture Water Analytics: FACING THE FUTURE  DOWNLOAD   [PDF,": Expected end of input but "," found.
+[Wed Feb 10 2016 12:00:19 GMT+0000 (GMT)] layer "Accenture Water Analytics: FACING THE FUTURE  DOWNLOAD   [PDF,": Expected end of input but "," found.
+[Wed Feb 10 2016 12:00:19 GMT+0000 (GMT)] layer "filtermenu-map.png": Duplicate path: filtermenu-map.png
+[Wed Feb 10 2016 12:00:19 GMT+0000 (GMT)] layer "filtermenu.png": Duplicate path: filtermenu.png
+[Wed Feb 10 2016 12:00:19 GMT+0000 (GMT)] layer "JAMES.BARNARD": Unsupported extension: barnard
+[Wed Feb 10 2016 12:00:19 GMT+0000 (GMT)] layer "JAMES.BARNARD": Unsupported extension: barnard
+[Wed Feb 10 2016 12:00:19 GMT+0000 (GMT)] layer "filtermenu-map.png": Duplicate path: filtermenu-map.png
+[Wed Feb 10 2016 12:00:19 GMT+0000 (GMT)] layer "filtermenu.png": Duplicate path: filtermenu.png
+[Wed Feb 10 2016 12:00:19 GMT+0000 (GMT)] layer "filtermenu-map.png": Duplicate path: filtermenu-map.png
+[Wed Feb 10 2016 12:00:19 GMT+0000 (GMT)] layer "filtermenu.png": Duplicate path: filtermenu.png
+[Wed Feb 10 2016 12:00:19 GMT+0000 (GMT)] layer "filtermenu-map.png": Duplicate path: filtermenu-map.png
+[Wed Feb 10 2016 12:00:19 GMT+0000 (GMT)] layer "filtermenu.png": Duplicate path: filtermenu.png

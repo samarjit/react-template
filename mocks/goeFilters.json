@@ -1,0 +1,54 @@
+{
+	"datasource": "workorder",
+	"geofilters": [{
+			"name": "spilltype",
+			"label": "filter1",
+			"fields": [{
+				"type": "checkbox",
+				"label": "sub filter1",
+				"value": "public",
+				"op": "in",
+				"dtype": "String"
+			}, {
+				"type": "checkbox",
+				"label": "sub filter2",
+				"value": "private",
+				"op": "in",
+				"dtype": "String"
+			}, {
+				"type": "checkbox",
+				"label": "sub filter3",
+				"value": "ssoh",
+				"op": "in",
+				"dtype": "String"
+			}]
+		}, {
+			"name": "spillSource",
+			"label": "filter2",
+			"fields": [{
+				"type": "textfield",
+				"label": "test1",
+				"value": "lateral",
+				"op": "like",
+				"dtype": "String"
+			}]
+		}, {
+			"name": "spillTo",
+			"label": "filter3",
+			"fields": [{
+				"type": "checkbox",
+				"label": "subfilter4",
+				"value": "creek",
+				"op": "in",
+				"dtype": "String"
+			}, {
+				"type": "checkbox",
+				"label": "sub filter5",
+				"value": "land",
+				"op": "in",
+				"dtype": "String"
+			}]
+		}
+
+	]
+}

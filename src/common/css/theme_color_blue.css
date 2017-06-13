@@ -1,0 +1,132 @@
+/*list of colours*/
+
+/*menu-outer : rgb(30, 127, 157)
+o-menu-sub: rgb(18, 65, 85)
+*/
+
+/*:root{
+	--main-dark-color: rgb(18, 65, 86);
+	--main-light-color: rgb(30, 127, 157);
+	--tile-color: rgba(31, 49, 59, 0.7);
+}*/
+
+
+.o-arisBackground{
+	     background-image: url("../../../core/common/resources/img/arisBackground.jpg");
+}
+.o-arisBackground {
+	font-family: "Roboto Condensed",Helvetica, sans-serif;
+	font-style: normal;
+	font-size: 15px;
+
+    position: relative;    
+    background-repeat:no-repeat;
+
+    /* background-size:100% 100vh; */
+    /* background-size: cover; */
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center  center;
+    height: 100%;
+}
+.arisLogoImage{
+	height: 52px;
+    width: 137px;
+	background-image: url("../../../core/common/resources/img/logo.jpg");
+}
+.o-arisHeaderBar {
+    background-image: linear-gradient(to bottom,rgb(18, 65, 86) 0,rgb(18, 65, 86) 100%);
+    /*opacity: 0.9;*/
+    border-color: rgb(18, 65, 85);
+}
+
+.dropdown-menu,.simple-dropdown,aris-menu-collapse{
+	background-color: rgb(30, 127, 157) !important;
+}
+
+.o-menu-top {
+    border-bottom: 1px solid rgb(81, 98, 106);
+}
+.o-menu-sub {
+	background-color: rgb(18, 65, 86)
+}
+.o-tileTitleBox{
+	background-color: rgb(18, 65, 86)
+}
+
+.o-full-row-tile .o-chart-tile,.o-data-display-tile{
+    background: rgba(31, 49, 59, 0.7);
+}
+
+.o-arisPanel .o-singleTile{
+    background: rgba(31, 49, 59, 0.7);
+}
+
+.c-tile-submit-box{
+    background-color: rgb(11,79,102);
+}
+
+.o-footer{
+    background-image: linear-gradient(to bottom,rgba(27, 53, 66, 0.9) 0,rgba(31, 79, 109, 0.9) 100%);
+}
+
+
+.o-layerAndFilterPanelItems{
+ 	background-color: rgba(9, 31, 41, 0.9);
+ }
+
+.o-layerAndFilterPanelDark {
+    background-color: rgba(18, 65, 85, 0.9);
+}
+.o-filter_button{
+	background-color: rgba(9, 31, 41, 0.9);
+	border-color: #6495ED;
+}
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover{
+	background-color: rgb(30, 127, 157)
+}
+.o-filtertabs{
+	background-color: rgba(18, 65, 85, 0.9);
+}
+.o-arisFilter input[type="checkbox"]:checked + label span {
+     background:url(../../../core/common/resources/img/check_radio_sheet.png) -19px top no-repeat;
+}
+.o-arisFilter input[type="checkbox"] + label span {
+     background:url(../../../core/common/resources/img/check_radio_sheet.png) left top no-repeat;
+}
+
+.infocardContent{
+	background-color: rgba(9, 31, 41, 0.95);
+}
+.infocardHeader{
+	background-color: rgba(18, 65, 85, 0.7);
+}
+.o-filter_button.active {
+    background-color: rgb(30, 127, 157);
+}
+.btn.btn-primary {
+ 
+}
+
+.o-themeSelect{
+	border-color:rgb(18, 65, 86);
+}
+
+.o-yammer-icon{
+	background-image: url(../../../core/common/resources/img/yammer-icon-blue.png);
+}
+
+.u-dirBorder, .o-menu-top {
+    border-color: #51626A;
+}
+
+.t-color-black {
+	color: black;
+}
+.t-color-white {
+    color: white;
+}
+
+select, input {
+    background-color: rgb(18, 65, 85);
+}

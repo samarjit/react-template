@@ -1,0 +1,29 @@
+[
+	{
+	"spillIncidentTrendId":2,
+	"functionalAreaId":2,
+	"assetObjectTypeId":6,
+	"assetObjectTypeName":"Spill Incident",
+	"incidentReportedDateTime":1435561800000,
+	"incidentAddress":"",
+	"incidentPublicOrPrivate":"PUBLIC",
+	"incidentType":"Sewer Spill",
+	"incidentDescription":"Customer reported Sewer Spill",
+	"incidentReferenceNumber":7444519,
+	"spillCallDateTime":1435561800000,
+	"cleanupNeeded":"Y",
+	"spillTo":"LAND",
+	"spillSource":"MAIN",
+	"firstArrivalDateTime":1435568100000,
+	"incidentConfirmedDateTime":1435568400000,
+	"incidentContainedDateTime":1435586700000,
+	"incidentCause":"DEBRIS",
+	"spillDurationMinutes":26,
+	"resolutionDetails":"",
+	"completionDate":1435588200000,
+	"spillRate":15.0,
+	"totalVolume":6225.0,
+	"weatherType":"DRY",
+	"streamBasin":"CULVER CITY","pipeSize":12.0,"upstreamManhole":"47009006","downstreamManhole":"47005183","latitude":34.1117933,"longitude":-118.3870888,"comments":"Sewage was flowing from the manhole in the intersection at an estimated rate of 2 GPM and getting into the catch basin. This is a \"CSO\" area therefore it's a dryland spill and not a creek spill. Emergency Response Team 30 was also on site. REFER TO SERVICE REQUEST #420008 FOR ADDITIONAL SPILL INFORMATION.....MHALL","incidentResponseTime":1.7,"incidentContainmentTime":6.916666667,"majorSpill":"Y","targetContainmentTime":5.0,"totalLengthOfSewers":1385.0,"dateTimeValue":1477048275000
+}
+]

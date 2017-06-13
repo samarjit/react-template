@@ -1,0 +1,114 @@
+[
+    {
+        "sitename": "1185 Collier Road - SSO",
+        "label": "Level",
+        "unit": "ft",
+        "date": "28/08/2017 00:30:00",
+        "value": "11.05161"
+    },
+    {
+        "sitename": "1185 Collier Road - SSO",
+        "label": "Level",
+        "unit": "ft",
+        "date": "28/08/2017 00:45:00",
+        "value": "10.92559"
+    },
+    {
+        "sitename": "1185 Collier Road - SSO",
+        "label": "Level",
+        "unit": "ft",
+        "date": "28/08/2017 01:00:00",
+        "value": "10.96674"
+    },
+    {
+        "sitename": "1185 Collier Road - SSO",
+        "label": "Level",
+        "unit": "ft",
+        "date": "28/08/2017 01:15:00",
+        "value": "11.02317"
+    },
+    {
+        "sitename": "1371 Kimberly Way -SSO",
+        "label": "Level",
+        "unit": "ft",
+        "date": "28/08/2017 01:30:00",
+        "value": "11.02623"
+    },
+    {
+        "sitename": "1371 Kimberly Way -SSO",
+        "label": "Level",
+        "unit": "ft",
+        "date": "28/08/2017 01:45:00",
+        "value": "10.95166"
+    },
+    {
+        "sitename": "1371 Kimberly Way -SSO",
+        "label": "Velocity",
+        "unit": "ft/s",
+        "date": "29/08/2017 00:30:00",
+        "value": "26.20515"
+    },
+    {
+        "sitename": "1371 Kimberly Way -SSO",
+        "label": "Velocity",
+        "unit": "ft/s",
+        "date": "29/08/2017 00:45:00",
+        "value": "29.85734"
+    },
+    {
+        "sitename": "1371 Kimberly Way -SSO",
+        "label": "Velocity",
+        "unit": "ft/s",
+        "date": "29/08/2017 01:00:00",
+        "value": "28.48486"
+    },
+    {
+        "sitename": "1stAVE",
+        "label": "Velocity",
+        "unit": "ft/s",
+        "date": "29/08/2017 01:15:00",
+        "value": "24.37814"
+    },
+    {
+        "sitename": "1stAVE",
+        "label": "Velocity",
+        "unit": "ft/s",
+        "date": "29/08/2017 01:30:00",
+        "value": "24.37814"
+    },
+    {
+        "sitename": "1stAVE",
+        "label": "Velocity",
+        "unit": "ft/s",
+        "date": "29/08/2017 01:45:00",
+        "value": "24.37814"
+    },
+    {
+        "sitename": "1stAVE",
+        "label": "Flow Rate",
+        "unit": "mgd",
+        "date": "30/08/2017 00:30:00",
+        "value": "10.36999"
+    },
+    {
+        "sitename": "Eastlake",
+        "label": "Flow Rate",
+        "unit": "mgd",
+        "date": "30/08/2017 00:45:00",
+        "value": "10.37673"
+    },
+    {
+        "sitename": "Eastlake",
+        "label": "Flow Rate",
+        "unit": "mgd",
+        "date": "30/08/2017 01:00:00",
+        "value": "10.37357"
+    },
+    {
+        "sitename": "Eastlake",
+        "label": "Flow Rate",
+        "unit": "mgd",
+        "date": "30/08/2017 01:15:00",
+        "value": "10.3155"
+    }
+]

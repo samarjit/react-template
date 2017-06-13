@@ -1,0 +1,46 @@
+[
+    {
+        "waterBoosterStationId": 1,
+        "assetId": 0,
+        "assetName": "WALLEND WBS",
+        "latitude": 33.754182,
+        "longitude": -84.53032,
+        "pumpAvailability": 0.0,
+        "ragStatus": "RED",
+        "xCoordinate":  -164.70703,
+        "yCoordinate": -25.93751
+    },
+    {
+        "waterBoosterStationId": 2,
+        "assetId": 0,
+        "assetName": "KINGSBOROUGH MINSTER IOS WBS",
+        "latitude": 33.790329,
+        "longitude": -84.444533,
+        "pumpAvailability": 0.0,
+        "ragStatus": "RED",
+        "xCoordinate":  -116.54297,
+        "yCoordinate": -24.17970
+    },
+    {
+        "waterBoosterStationId": 3,
+        "assetId": 0,
+        "assetName": "DEANS HILL BPT",
+        "latitude": 33.758199,
+        "longitude": -84.425731,
+        "ragStatus": "RED",
+        "pumpAvailability": 0.0,
+        "xCoordinate":  -69.78516,
+        "yCoordinate": -41.05470
+    },
+    {
+        "waterBoosterStationId": 4,
+        "assetId": 0,
+        "assetName": "GROVE KEY STREET MTV",
+        "latitude": 33.80803,
+        "longitude": -84.478456,
+        "ragStatus": "RED",
+        "pumpAvailability": 0.0,
+        "xCoordinate":  -27.94922,
+        "yCoordinate": -32.96876
+    }
+]

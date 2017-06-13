@@ -1,0 +1,6 @@
+[
+  {"ID": "CW2", "enabled": true},
+  {"ID": "CW3", "enabled": false},
+  {"ID": "WW1", "enabled": false},
+  {"ID": "CIP1", "enabled": true}
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "LAST_UPDATED_BY": "rmadmin",
+        "BRAND_NAME": "adsfasdf",
+        "BRAND_DESC": "    asdfsdf",
+        "BRAND_UUID": "1A72C585ABB10C65E053B2FFE60AF54B",
+        "LAST_UPDATED_TIMESTAMP": "31-Mar-2015 0:00:00"
+    },
+    {
+        "LAST_UPDATED_BY": "pt",
+        "BRAND_NAME": "***",
+        "BRAND_DESC": "***",
+        "BRAND_UUID": "1A72C585ABA80C65E053B2FFE60AF54B",
+        "LAST_UPDATED_TIMESTAMP": "25-Mar-2015 0:00:00"
+    },
+    {
+        "LAST_UPDATED_BY": "rmadmin",
+        "BRAND_NAME": "Brand1",
+        "BRAND_DESC": "Brand1",
+        "BRAND_UUID": "1A72C585ABAF0C65E053B2FFE60AF54B",
+        "LAST_UPDATED_TIMESTAMP": "16-Feb-2015 0:00:00"
+    },
+    {
+        "LAST_UPDATED_BY": "rmadmin",
+        "BRAND_NAME": "Cohesion",
+        "BRAND_DESC": "Cohesion",
+        "BRAND_UUID": "1A72C585ABA70C65E053B2FFE60AF54B",
+        "LAST_UPDATED_TIMESTAMP": "09-Oct-2014 0:00:00"
+    },
+    {
+        "LAST_UPDATED_BY": "rmadmin",
+        "BRAND_NAME": "Corrosive Liquid",
+        "BRAND_DESC": "Corrosive Liquid",
+        "BRAND_UUID": "1A72C585ABAA0C65E053B2FFE60AF54B",
+        "LAST_UPDATED_TIMESTAMP": "17-Dec-2014 0:00:00"
+    },
+    {
+        "LAST_UPDATED_BY": "01-JUL-13",
+        "BRAND_NAME": "Dimension",
+        "BRAND_DESC": "Dimension",
+        "BRAND_UUID": "1A72C585ABA40C65E053B2FFE60AF54B",
+        "LAST_UPDATED_TIMESTAMP": "01-Jul-2013 0:00:00"
+    },
+    {
+        "LAST_UPDATED_BY": "01-JUL-13",
+        "BRAND_NAME": "Equation",
+        "BRAND_DESC": "Equation",
+        "BRAND_UUID": "1A72C585ABA50C65E053B2FFE60AF54B",
+        "LAST_UPDATED_TIMESTAMP": "01-Jul-2013 0:00:00"
+    },
+    {
+        "LAST_UPDATED_BY": "rmadmin",
+        "BRAND_NAME": "QA",
+        "BRAND_DESC": "QA test",
+        "BRAND_UUID": "1A72C585ABA90C65E053B2FFE60AF54B",
+        "LAST_UPDATED_TIMESTAMP": "18-Nov-2014 0:00:00"
+    },
+    {
+        "LAST_UPDATED_BY": "Vivek",
+        "BRAND_NAME": "VIVEK",
+        "BRAND_DESC": "VIVEK",
+        "BRAND_UUID": "1A72C585ABAD0C65E053B2FFE60AF54B",
+        "LAST_UPDATED_TIMESTAMP": "16-Jan-2015 0:00:00"
+    },
+    {
+        "LAST_UPDATED_BY": "01-JUL-13",
+        "BRAND_NAME": "Variation",
+        "BRAND_DESC": "Variation",
+        "BRAND_UUID": "1A72C585ABA60C65E053B2FFE60AF54B",
+        "LAST_UPDATED_TIMESTAMP": "01-Jul-2013 0:00:00"
+    },
+    {
+        "LAST_UPDATED_BY": "rmadmin",
+        "BRAND_NAME": "Wollen Cloths",
+        "BRAND_DESC": "Wollen Cloths",
+        "BRAND_UUID": "1A72C585ABAB0C65E053B2FFE60AF54B",
+        "LAST_UPDATED_TIMESTAMP": "17-Dec-2014 0:00:00"
+    },
+    {
+        "LAST_UPDATED_BY": "Yasmeen",
+        "BRAND_NAME": "YT",
+        "BRAND_DESC": "YT",
+        "BRAND_UUID": "1A72C585ABB00C65E053B2FFE60AF54B",
+        "LAST_UPDATED_TIMESTAMP": "12-Mar-2015 0:00:00"
+    },
+    {
+        "LAST_UPDATED_BY": "rmadmin",
+        "BRAND_NAME": "Wollen",
+        "BRAND_DESC": "clothes",
+        "BRAND_UUID": "1A72C585ABAC0C65E053B2FFE60AF54B",
+        "LAST_UPDATED_TIMESTAMP": "29-Dec-2014 0:00:00"
+    },
+    {
+        "LAST_UPDATED_BY": "Srividya",
+        "BRAND_NAME": "sv",
+        "BRAND_DESC": "sv",
+        "BRAND_UUID": "1A72C585ABAE0C65E053B2FFE60AF54B",
+        "LAST_UPDATED_TIMESTAMP": "11-Mar-2015 0:00:00"
+    },
+    {
+        "LAST_UPDATED_BY": "Tony",
+        "BRAND_NAME": "v.b",
+        "BRAND_DESC": "v.b",
+        "BRAND_UUID": "1A72C585ABB20C65E053B2FFE60AF54B",
+        "LAST_UPDATED_TIMESTAMP": "03-Feb-2015 0:00:00"
+    }
+]

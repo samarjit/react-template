@@ -1,0 +1,335 @@
+[
+    {
+        "id": 16,
+        "name": "PERM_RUN_MODEL",
+        "moduleName": "ARIS_CORE",
+        "authority": "PERM_RUN_MODEL"
+    },
+    {
+        "id": 7,
+        "name": "PERM_CRUD_USERS",
+        "moduleName": "ARIS_CORE",
+        "authority": "PERM_CRUD_USERS"
+    },
+    {
+        "id": 1,
+        "name": "PERM_CHANGE_PASSWORD",
+        "moduleName": "ARIS_CORE",
+        "authority": "PERM_CHANGE_PASSWORD"
+    },
+    {
+        "id": 8,
+        "name": "PERM_READ_ROLES",
+        "moduleName": "ARIS_CORE",
+        "authority": "PERM_READ_ROLES"
+    },
+    {
+        "id": 17,
+        "name": "PERM_CRUD_SUPERUSERS",
+        "moduleName": "ARIS_CORE",
+        "authority": "PERM_CRUD_SUPERUSERS"
+    },
+    {
+        "id": 2,
+        "name": "ROLE_USER",
+        "permissions": [
+            {
+                "id": 4,
+                "name": "PERM_MOVE_WIDGET",
+                "moduleName": "ARIS_CORE",
+                "authority": "PERM_MOVE_WIDGET"
+            },
+            {
+                "id": 2,
+                "name": "PERM_DOWNLOAD_DATA",
+                "moduleName": "ARIS_CORE",
+                "authority": "PERM_DOWNLOAD_DATA"
+            },
+            {
+                "id": 1,
+                "name": "PERM_CHANGE_PASSWORD",
+                "moduleName": "ARIS_CORE",
+                "authority": "PERM_CHANGE_PASSWORD"
+            },
+            {
+                "id": 25,
+                "name": "PERM_VIEW_UC2",
+                "moduleName": "ARIS_SAMPLE_UC2",
+                "authority": "PERM_VIEW_UC2"
+            },
+            {
+                "id": 24,
+                "name": "PERM_VIEW_UC1",
+                "moduleName": "ARIS_SAMPLE_UC1",
+                "authority": "PERM_VIEW_UC1"
+            },
+            {
+                "id": 26,
+                "name": "PERM_VIEW_UC3",
+                "moduleName": "ARIS_SAMPLE_UC3",
+                "authority": "PERM_VIEW_UC3"
+            },
+            {
+                "id": 23,
+                "name": "PERM_VIEW_TEST_PAGES",
+                "moduleName": "ARIS_TEST",
+                "authority": "PERM_VIEW_TEST_PAGES"
+            },
+            {
+                "id": 20,
+                "name": "PERM_VIEW_DB_TABLES",
+                "moduleName": "ARIS_CORE",
+                "authority": "PERM_VIEW_DB_TABLES"
+            }
+        ],
+        "authority": "ROLE_USER"
+    },
+    {
+        "id": 12,
+        "name": "PERM_BIND_PERMISSIONS",
+        "moduleName": "ARIS_CORE",
+        "authority": "PERM_BIND_PERMISSIONS"
+    },
+    {
+        "id": 10,
+        "name": "PERM_READ_PERMISSIONS",
+        "moduleName": "ARIS_CORE",
+        "authority": "PERM_READ_PERMISSIONS"
+    },
+    {
+        "id": 14,
+        "name": "PERM_VIEW_BULKUPLOAD",
+        "moduleName": "ARIS_CORE",
+        "authority": "PERM_VIEW_BULKUPLOAD"
+    },
+    {
+        "id": 19,
+        "name": "PERM_TOGGLE_UC",
+        "moduleName": "ARIS_CORE",
+        "authority": "PERM_TOGGLE_UC"
+    },
+    {
+        "id": 4,
+        "name": "PERM_MOVE_WIDGET",
+        "moduleName": "ARIS_CORE",
+        "authority": "PERM_MOVE_WIDGET"
+    },
+    {
+        "id": 25,
+        "name": "PERM_VIEW_UC2",
+        "moduleName": "ARIS_SAMPLE_UC2",
+        "authority": "PERM_VIEW_UC2"
+    },
+    {
+        "id": 24,
+        "name": "PERM_VIEW_UC1",
+        "moduleName": "ARIS_SAMPLE_UC1",
+        "authority": "PERM_VIEW_UC1"
+    },
+    {
+        "id": 15,
+        "name": "PERM_VIEW_DQ",
+        "moduleName": "ARIS_CORE",
+        "authority": "PERM_VIEW_DQ"
+    },
+    {
+        "id": 26,
+        "name": "PERM_VIEW_UC3",
+        "moduleName": "ARIS_SAMPLE_UC3",
+        "authority": "PERM_VIEW_UC3"
+    },
+    {
+        "id": null,
+        "name": "ACTIVE_PROFILE_DEV",
+        "moduleName": null,
+        "authority": "ACTIVE_PROFILE_DEV"
+    },
+    {
+        "id": 23,
+        "name": "PERM_VIEW_TEST_PAGES",
+        "moduleName": "ARIS_TEST",
+        "authority": "PERM_VIEW_TEST_PAGES"
+    },
+    {
+        "id": 20,
+        "name": "PERM_VIEW_DB_TABLES",
+        "moduleName": "ARIS_CORE",
+        "authority": "PERM_VIEW_DB_TABLES"
+    },
+    {
+        "id": 11,
+        "name": "PERM_CRUD_PERMISSIONS",
+        "moduleName": "ARIS_CORE",
+        "authority": "PERM_CRUD_PERMISSIONS"
+    },
+    {
+        "id": 21,
+        "name": "PERM_VIEW_STORAGE",
+        "moduleName": "ARIS_CORE",
+        "authority": "PERM_VIEW_STORAGE"
+    },
+    {
+        "id": 3,
+        "name": "ROLE_SUPERUSER",
+        "permissions": [
+            {
+                "id": 16,
+                "name": "PERM_RUN_MODEL",
+                "moduleName": "ARIS_CORE",
+                "authority": "PERM_RUN_MODEL"
+            },
+            {
+                "id": 7,
+                "name": "PERM_CRUD_USERS",
+                "moduleName": "ARIS_CORE",
+                "authority": "PERM_CRUD_USERS"
+            },
+            {
+                "id": 15,
+                "name": "PERM_VIEW_DQ",
+                "moduleName": "ARIS_CORE",
+                "authority": "PERM_VIEW_DQ"
+            },
+            {
+                "id": 8,
+                "name": "PERM_READ_ROLES",
+                "moduleName": "ARIS_CORE",
+                "authority": "PERM_READ_ROLES"
+            },
+            {
+                "id": 20,
+                "name": "PERM_VIEW_DB_TABLES",
+                "moduleName": "ARIS_CORE",
+                "authority": "PERM_VIEW_DB_TABLES"
+            },
+            {
+                "id": 11,
+                "name": "PERM_CRUD_PERMISSIONS",
+                "moduleName": "ARIS_CORE",
+                "authority": "PERM_CRUD_PERMISSIONS"
+            },
+            {
+                "id": 21,
+                "name": "PERM_VIEW_STORAGE",
+                "moduleName": "ARIS_CORE",
+                "authority": "PERM_VIEW_STORAGE"
+            },
+            {
+                "id": 6,
+                "name": "PERM_READ_USERS",
+                "moduleName": "ARIS_CORE",
+                "authority": "PERM_READ_USERS"
+            },
+            {
+                "id": 13,
+                "name": "PERM_SU_CONFIG",
+                "moduleName": "ARIS_CORE",
+                "authority": "PERM_SU_CONFIG"
+            },
+            {
+                "id": 9,
+                "name": "PERM_CRUD_ROLES",
+                "moduleName": "ARIS_CORE",
+                "authority": "PERM_CRUD_ROLES"
+            },
+            {
+                "id": 3,
+                "name": "PERM_UPLOAD_DATA",
+                "moduleName": "ARIS_CORE",
+                "authority": "PERM_UPLOAD_DATA"
+            },
+            {
+                "id": 10,
+                "name": "PERM_READ_PERMISSIONS",
+                "moduleName": "ARIS_CORE",
+                "authority": "PERM_READ_PERMISSIONS"
+            },
+            {
+                "id": 14,
+                "name": "PERM_VIEW_BULKUPLOAD",
+                "moduleName": "ARIS_CORE",
+                "authority": "PERM_VIEW_BULKUPLOAD"
+            },
+            {
+                "id": 22,
+                "name": "PERM_OVERVIEW_EDIT",
+                "moduleName": "ARIS_CORE",
+                "authority": "PERM_OVERVIEW_EDIT"
+            }
+        ],
+        "authority": "ROLE_SUPERUSER"
+    },
+    {
+        "id": 6,
+        "name": "PERM_READ_USERS",
+        "moduleName": "ARIS_CORE",
+        "authority": "PERM_READ_USERS"
+    },
+    {
+        "id": 13,
+        "name": "PERM_SU_CONFIG",
+        "moduleName": "ARIS_CORE",
+        "authority": "PERM_SU_CONFIG"
+    },
+    {
+        "id": 2,
+        "name": "PERM_DOWNLOAD_DATA",
+        "moduleName": "ARIS_CORE",
+        "authority": "PERM_DOWNLOAD_DATA"
+    },
+    {
+        "id": 9,
+        "name": "PERM_CRUD_ROLES",
+        "moduleName": "ARIS_CORE",
+        "authority": "PERM_CRUD_ROLES"
+    },
+    {
+        "id": 4,
+        "name": "ROLE_ADMIN",
+        "permissions": [
+            {
+                "id": 12,
+                "name": "PERM_BIND_PERMISSIONS",
+                "moduleName": "ARIS_CORE",
+                "authority": "PERM_BIND_PERMISSIONS"
+            },
+            {
+                "id": 5,
+                "name": "PERM_CONFIGURE_PAGE_LAYOUT",
+                "moduleName": "ARIS_CORE",
+                "authority": "PERM_CONFIGURE_PAGE_LAYOUT"
+            },
+            {
+                "id": 17,
+                "name": "PERM_CRUD_SUPERUSERS",
+                "moduleName": "ARIS_CORE",
+                "authority": "PERM_CRUD_SUPERUSERS"
+            },
+            {
+                "id": 19,
+                "name": "PERM_TOGGLE_UC",
+                "moduleName": "ARIS_CORE",
+                "authority": "PERM_TOGGLE_UC"
+            }
+        ],
+        "authority": "ROLE_ADMIN"
+    },
+    {
+        "id": 3,
+        "name": "PERM_UPLOAD_DATA",
+        "moduleName": "ARIS_CORE",
+        "authority": "PERM_UPLOAD_DATA"
+    },
+    {
+        "id": 5,
+        "name": "PERM_CONFIGURE_PAGE_LAYOUT",
+        "moduleName": "ARIS_CORE",
+        "authority": "PERM_CONFIGURE_PAGE_LAYOUT"
+    },
+    {
+        "id": 22,
+        "name": "PERM_OVERVIEW_EDIT",
+        "moduleName": "ARIS_CORE",
+        "authority": "PERM_OVERVIEW_EDIT"
+    }
+]
